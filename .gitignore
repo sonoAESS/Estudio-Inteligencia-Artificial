@@ -45,3 +45,4 @@ events.out.tfevents.*
 *.h5
 Dataset
 *.gif
+.gitignore
