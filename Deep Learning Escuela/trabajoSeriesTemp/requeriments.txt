@@ -1,7 +1,0 @@
-tensorflow
-matplotlib
-pandas
-pathlib
-statsmodels
-scikit-learn
-numpy
