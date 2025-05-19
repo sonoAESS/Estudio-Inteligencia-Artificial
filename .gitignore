@@ -1,0 +1,48 @@
+# Entorno virtual llamado 'entorno'
+entorno/
+.env/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos y salidas que no quieres subir
+*.cct
+*.txt
+*.tgz
+*.zip
+*.tar.gz
+*.h5
+*.ckpt
+#*.csv
+*.xlsx
+
+# Salidas de TensorFlow
+events.out.tfevents.*
+
+# Otros
+*.bak
+*.h5
+Dataset
+*.gif
+.gitignore
